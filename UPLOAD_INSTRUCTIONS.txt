@@ -1,0 +1,11 @@
+Upload each batch to the SAME GitHub repository, one batch at a time.
+
+1. Open batch-1 and upload its CONTENTS. Do not upload the batch-1 wrapper folder.
+2. Complete that upload/commit.
+3. Open batch-2 and upload its CONTENTS to the SAME repository root.
+
+Keep the app, scripts, and report_templates subfolders exactly as supplied. Both batches belong at the repository root; do not nest them inside batch folders. Merge app/ from batch-2 into the same app/ folder created by batch-1.
+
+Include the hidden .env.example and .gitignore files from batch-1. They are configuration examples and ignore rules. Do not upload private credentials or the private-local package.
+
+After both uploads, setup.cmd, start.cmd, pyproject.toml, app/, scripts/, and report_templates/ should be at the repository root. The completed repository contains 154 files, including all seven templates.
