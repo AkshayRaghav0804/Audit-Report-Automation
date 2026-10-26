@@ -1,0 +1,41 @@
+.audit-history-metric {
+  flex: 1 1 200px;
+  min-width: 180px;
+  padding: 18px;
+}
+
+.audit-history-metric__icon {
+  color: var(--q-primary);
+  font-size: 28px;
+}
+
+.audit-history-metric__value {
+  color: #132238;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.audit-history-metric__label {
+  color: #607086;
+  font-size: 0.82rem;
+}
+
+.audit-history-table td {
+  max-width: 360px;
+  min-width: 120px;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.audit-history-table td:first-child {
+  min-width: 170px;
+  white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+  .audit-history-metric {
+    flex-basis: calc(50% - 8px);
+    min-width: 145px;
+  }
+}

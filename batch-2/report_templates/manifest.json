@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "source_file": "Audit Reports March_2025-26.docx",
+  "source_sha256": "73ba2ba69da58f95c22ebe0b321d78106f25be7b6c01a034413fa8eaeeba6216",
+  "templates": [
+    {
+      "id": "report-i",
+      "name": "Audit report for Standalone Listed Company",
+      "source_order": 1,
+      "file": "report-i.docx",
+      "sha256": "ded57c3409effbce2400725c80441b93f6bb70a74d1a10d1733c2896c8287372",
+      "body_title": "Report I – Audit Report for Standalone Listed Company with Equity and Debt Listing"
+    },
+    {
+      "id": "report-ii",
+      "name": "Audit report for Consolidated Listed Company",
+      "source_order": 2,
+      "file": "report-ii.docx",
+      "sha256": "c47f01c9c92e7d6c9af716a479b33392c52e908f30b6ca813b2cc7dbefe11544",
+      "body_title": "Report II – Audit Report for Consolidated Listed Company with Equity and Debt Listing"
+    },
+    {
+      "id": "report-iii",
+      "name": "Audit report for Standalone Listed Bank",
+      "source_order": 3,
+      "file": "report-iii.docx",
+      "sha256": "44c57ca273ca10996e35d5cd5325ad834539344edc25c11d3c0958f3ea672020",
+      "body_title": "Report III – Audit Report for Standalone Listed Bank"
+    },
+    {
+      "id": "report-iv",
+      "name": "Audit report for Consolidated Listed Bank",
+      "source_order": 4,
+      "file": "report-iv.docx",
+      "sha256": "d9208a5069c196f0a5d8d19d867ddcf15b9665e17dd6089852cb5399961b0a4c",
+      "body_title": "Report IV – Audit report for consolidated listed bank"
+    },
+    {
+      "id": "report-v",
+      "name": "Audit report for Life Insurance Company",
+      "source_order": 5,
+      "file": "report-v.docx",
+      "sha256": "678208393dc3287e59021ba04ac4f516a4028a9e5a8610f505f4d7d2dff369b6",
+      "body_title": "Report V – Audit Report for Standalone Life Insurance Company"
+    },
+    {
+      "id": "report-vi",
+      "name": "Audit report for General Insurance Company",
+      "source_order": 6,
+      "file": "report-vi.docx",
+      "sha256": "854032abe25c068b15d3684443e0b86313c5f2b599d2b934806c66c870272f77",
+      "body_title": "Report VI – Audit report for Standalone General Insurance Company"
+    },
+    {
+      "id": "report-vii",
+      "name": "Audit report for Unlisted Company",
+      "source_order": 7,
+      "file": "report-vii.docx",
+      "sha256": "a317f7ca8f2d57dd6b7b3209c75e0319d68313281fddaf85b6ba18c744413aa7",
+      "body_title": "Report VII – Audit Report for Standalone Unlisted Company"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Ketan S Vikamsey",
+      "icai_membership_number": "44000"
+    },
+    {
+      "name": "Gautam Shah",
+      "icai_membership_number": "117348"
+    },
+    {
+      "name": "Hasmukh B Dedhia",
+      "icai_membership_number": "33494"
+    },
+    {
+      "name": "Vinit K Jain",
+      "icai_membership_number": "145911"
+    },
+    {
+      "name": "Kamlesh R Jagetia",
+      "icai_membership_number": "139585"
+    },
+    {
+      "name": "Divesh B Shah",
+      "icai_membership_number": "168237"
+    },
+    {
+      "name": "Soorej Kombath",
+      "icai_membership_number": "164366"
+    },
+    {
+      "name": "Bharat Jain",
+      "icai_membership_number": "100583"
+    },
+    {
+      "name": "Tejas Parikh",
+      "icai_membership_number": "123215"
+    },
+    {
+      "name": "Devang Doshi",
+      "icai_membership_number": "140056"
+    },
+    {
+      "name": "Praveen Kumar Daga",
+      "icai_membership_number": "143762"
+    }
+  ]
+}
